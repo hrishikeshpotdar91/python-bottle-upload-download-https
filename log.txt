@@ -1,0 +1,34 @@
+	 	 
+GET - 200 OK	 	 
+posix.stat_result(st_mode=33188, st_ino=270432, st_dev=2053L, st_nlink=1, st_uid=1001, st_gid=1001, st_size=338340, st_atime=1414812898, st_mtime=1414706405, st_ctime=1414706405)		
+File stored at - /home/hduser/Downloads/downfile.txtGET - 200 OK	 	 
+posix.stat_result(st_mode=33188, st_ino=270432, st_dev=2053L, st_nlink=1, st_uid=1001, st_gid=1001, st_size=338340, st_atime=1414812898, st_mtime=1414706405, st_ctime=1414706405)		
+File stored at - /home/hduser/Downloads/downfile.txtGET - 200 OK	 	 
+posix.stat_result(st_mode=33188, st_ino=270432, st_dev=2053L, st_nlink=1, st_uid=1001, st_gid=1001, st_size=338340, st_atime=1414812898, st_mtime=1414706405, st_ctime=1414706405)		
+File stored at - /home/hduser/Downloads/downfile.txtGET - 200 OK	 	 
+posix.stat_result(st_mode=33188, st_ino=270432, st_dev=2053L, st_nlink=1, st_uid=1001, st_gid=1001, st_size=338340, st_atime=1414812898, st_mtime=1414706405, st_ctime=1414706405)		
+File stored at - /home/hduser/Downloads/downfile.txt GET - 200 OK	 	 
+posix.stat_result(st_mode=33188, st_ino=270432, st_dev=2053L, st_nlink=1, st_uid=1001, st_gid=1001, st_size=338340, st_atime=1414812898, st_mtime=1414706405, st_ctime=1414706405)		
+File stored at - /home/hduser/Downloads/downfile.txt GET - 200 OK	 	 
+posix.stat_result(st_mode=33188, st_ino=270432, st_dev=2053L, st_nlink=1, st_uid=1001, st_gid=1001, st_size=338340, st_atime=1414812898, st_mtime=1414706405, st_ctime=1414706405)		
+File stored at - /home/hduser/Downloads/downfile.txt GET - 200 OK	 	 
+posix.stat_result(st_mode=33188, st_ino=270432, st_dev=2053L, st_nlink=1, st_uid=1001, st_gid=1001, st_size=338340, st_atime=1414812898, st_mtime=1414706405, st_ctime=1414706405)		
+File stored at - /home/hduser/Downloads/downfile.txt GET - 200 OK	 	 
+posix.stat_result(st_mode=33188, st_ino=270432, st_dev=2053L, st_nlink=1, st_uid=1001, st_gid=1001, st_size=338340, st_atime=1414812898, st_mtime=1414706405, st_ctime=1414706405)		
+File stored at - /home/hduser/Downloads/downfile.txtGET - 200 OK	 	 
+posix.stat_result(st_mode=33188, st_ino=270432, st_dev=2053L, st_nlink=1, st_uid=1001, st_gid=1001, st_size=338340, st_atime=1414812898, st_mtime=1414706405, st_ctime=1414706405)		
+File stored at - /home/hduser/Downloads/downfile.txtGET - 200 OK	 	 
+posix.stat_result(st_mode=33188, st_ino=270432, st_dev=2053L, st_nlink=1, st_uid=1001, st_gid=1001, st_size=338340, st_atime=1414812898, st_mtime=1414706405, st_ctime=1414706405)		
+File stored at - /home/hduser/Downloads/downfile.txtGET - 200 OK	 	 
+posix.stat_result(st_mode=33188, st_ino=270432, st_dev=2053L, st_nlink=1, st_uid=1001, st_gid=1001, st_size=338340, st_atime=1414812898, st_mtime=1414706405, st_ctime=1414706405)		
+File stored at - /home/hduser/Downloads/downfile.txtGET - 200 OK	 	 
+posix.stat_result(st_mode=33188, st_ino=270432, st_dev=2053L, st_nlink=1, st_uid=1001, st_gid=1001, st_size=338340, st_atime=1414812898, st_mtime=1414706405, st_ctime=1414706405)		
+File stored at - /home/hduser/Downloads/downfile.txtGET - 200 OK	 	 
+posix.stat_result(st_mode=33188, st_ino=270432, st_dev=2053L, st_nlink=1, st_uid=1001, st_gid=1001, st_size=338340, st_atime=1414812898, st_mtime=1414706405, st_ctime=1414706405)		
+File stored at - /home/hduser/Downloads/downfile.txtGET - 200 OK	 	 
+posix.stat_result(st_mode=33188, st_ino=270432, st_dev=2053L, st_nlink=1, st_uid=1001, st_gid=1001, st_size=338340, st_atime=1414812898, st_mtime=1414706405, st_ctime=1414706405)		
+File stored at - /home/hduser/Downloads/downfile.txtGET - 200 OK	 	 
+posix.stat_result(st_mode=33188, st_ino=270432, st_dev=2053L, st_nlink=1, st_uid=1001, st_gid=1001, st_size=338340, st_atime=1414812898, st_mtime=1414706405, st_ctime=1414706405)		
+File stored at - /home/hduser/Downloads/downfile.txt
+
+	
